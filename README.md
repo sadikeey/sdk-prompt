@@ -1,1 +1,1 @@
-# atmachine-prompt
+# sdk-prompt
